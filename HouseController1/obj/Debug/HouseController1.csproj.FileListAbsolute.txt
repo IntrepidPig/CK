@@ -1,1 +1,7 @@
 c:\users\milkr\documents\visual studio 2015\Projects\HouseController1\HouseController1\bin\Debug\HouseController1.exe.config
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\bin\Debug\HouseController1.exe.config
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\bin\Debug\HouseController1.exe
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\bin\Debug\HouseController1.pdb
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\obj\Debug\HouseController1.csprojResolveAssemblyReference.cache
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\obj\Debug\HouseController1.exe
+C:\Users\virus\Documents\Visual Studio 2015\Projects\HouseController1\HouseController1\obj\Debug\HouseController1.pdb

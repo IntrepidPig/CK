@@ -1,0 +1,13 @@
+﻿1.Porch:L1.1E
+2.Entry Room:D1.011L2.0E
+3.Living Room:W1.01W2.01W3.00W4.00L5.0L6.0E
+4.Kitchen:W1.01W2.01L3.0L4.0E
+5.Dining Room:W1.01L2.0L3.0E
+6.Office:D1.000W2.01L3.0E
+7.Hallway:L1.1E
+8.Benny's Room:D1.100W2.01L3.0E
+9.Bathroom:D1.001W2.01L3.0E
+10.Parent's Room:D1.011W2.01W3.01L4.0L5.0L6.0E
+11.Mateo's Room:D1.101W2.01W3.01L4.0E
+12.Backyard:L1.0E
+13.Garage:D1.101W3.00L2.1E
